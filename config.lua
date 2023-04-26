@@ -1,5 +1,7 @@
 Config = {}
 
+Config.framework = "rsg" --"redemrp" or "rsg"
+
 Config.animDicts = {
     ["face_human@test@new_horse"] = "Hew Norse",
     ["face_human@bill_williamson@variations@aiming"] = "Bill W. Aim",
